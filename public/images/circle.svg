@@ -1,0 +1,30 @@
+<svg 
+	id="circle"
+	width="591" 
+	height="586" 
+	viewBox="0 0 591 586" 
+	fill="none" 
+	xmlns="http://www.w3.org/2000/svg">
+	<defs>  
+        <linearGradient id="logo-gradient" x1="50%" y1="0%" x2="50%" y2="100%" > 
+            <stop offset="0%" stop-color="#bac964">
+                <animate attributeName="stop-color" values="#bac964; #A2AF56; #bac964" dur="2s" repeatCount="indefinite"></animate>
+            </stop>
+            <stop offset="100%" stop-color="#A2AF56">
+                <animate attributeName="stop-color" values="#A2AF56; #DCEE70; #A2AF56" dur="2s" repeatCount="indefinite"></animate>
+            </stop>
+            <stop offset="100%" stop-color="#DCEE70">
+                <animate attributeName="stop-color" values="#DCEE70; #EEFF8B; #DCEE70" dur="2s" repeatCount="indefinite"></animate>
+            </stop>
+            <stop offset="100%" stop-color="#EEFF8B">
+                <animate attributeName="stop-color" values="#EEFF8B; #bac964; #EEFF8B" dur="2s" repeatCount="indefinite"></animate>
+            </stop>
+        </linearGradient> 
+    </defs>
+	<path 
+		fill="url('#logo-gradient')"
+		style="mix-blend-mode:lighten" 
+		d="M591 293C591 454.819 458.7 586 295.5 586C132.3 586 0 454.819 0 293C0 131.181 132.3 0 295.5 0C458.7 0 591 131.181 591 293Z" />
+</svg>
+
+<!-- , , #b4bb8f); -->
